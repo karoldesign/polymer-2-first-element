@@ -27,3 +27,5 @@ You'll need to install some command-line tools to manage dependencies and to run
         
     Open `localhost:8080/components/icon-toggle/demo/` in your browser. (Note that the path uses `icon-toggle`—the 
     component name listed in this element's `bower.json` file—rather than the actual directory name.) 
+
+    My step: https://polymer-library.polymer-project.org/2.0/docs/first-element/step-5
